@@ -39,7 +39,7 @@ Add your screenshots here after you save them into `screenshots/`.
 
 Example:
 ![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
-![Alt text](20251119_133702.jpg)
+![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/85ecccac89476160847903015fe0cc50d69fe5d6/Screenshot%202026-01-27%20184236.png)
 ![Alt text](20251119_133702.jpg)
 ![Alt text](20251119_133702.jpg)
 
