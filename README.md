@@ -31,3 +31,17 @@ Make sure you have Python 3.11+.
 ```bash
 pip install -r requirements.txt
 
+##Notes / Limitations
+
+-This tool is mainly for visual learning (Unit 1 vectors).
+
+-The equation box supports y = f(x) in 2D and z = f(x,y) in 3D.
+
+-It does not currently support implicit shapes like x^2/16 + y^2/25 = 1 as a single input.
+
+## What I learned 
+
+-Plotting vectors helped me connect component form like <vx,vy> to the actual direction and length.
+
+-Head-to-tail addition makes vector addition feel much more intuitive than just adding components.
+
