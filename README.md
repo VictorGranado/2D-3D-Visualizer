@@ -16,7 +16,7 @@ I made this because I sometimes understand the math but struggle to **picture** 
   - `<vx,vy>`  
   - `<vx,vy>@(tx,ty)`  
   - `<vx,vy,vz>@(tx,ty,tz)`
-- Optional curve/surface plotting (used as geometric context)
+- Optional curve/surface plotting (used as geometric context - a little buggy still) 
 
 ## Screenshots
 Add your screenshots here after you save them into `screenshots/`.
