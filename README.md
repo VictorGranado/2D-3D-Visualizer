@@ -38,7 +38,7 @@ I made this because I sometimes understand the math but struggle to **picture** 
 Add your screenshots here after you save them into `screenshots/`.
 
 Example:
-- `Screenshot 2026-01-27 184048.png`
+- `https://github.com/VictorGranado/2D-3D-Visualizer/blob/c378182a6bbd8474bbb284d515a7ec89961d7a0e/Screenshot%202026-01-27%20184048.png`
 - `screenshots/demo_3d.png`
 
 ## Install
