@@ -38,7 +38,7 @@ I made this because I sometimes understand the math but struggle to **picture** 
 Add your screenshots here after you save them into `screenshots/`.
 
 Example:
-![Alt text](Screenshot 2026-01-27 184048.png)
+![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
 ![Alt text](20251119_133702.jpg)
 ![Alt text](20251119_133702.jpg)
 ![Alt text](20251119_133702.jpg)
