@@ -38,7 +38,7 @@ I made this because I sometimes understand the math but struggle to **picture** 
 Add your screenshots here after you save them into `screenshots/`.
 
 Example:
-- `screenshots/demo_2d.png`
+- `Screenshot 2026-01-27 184048.png`
 - `screenshots/demo_3d.png`
 
 ## Install
