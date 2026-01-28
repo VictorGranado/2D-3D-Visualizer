@@ -17,6 +17,7 @@ I made this because I sometimes understand the math but struggle to **picture** 
   - `<vx,vy>@(tx,ty)`  
   - `<vx,vy,vz>@(tx,ty,tz)`
 - Optional curve/surface plotting (used as geometric context - a little buggy still)
+- tools for viewing the plot (such as pan, zoom, save image) 
 
 ## Notes / Limitations
 
