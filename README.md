@@ -31,7 +31,7 @@ Make sure you have Python 3.11+.
 ```bash
 pip install -r requirements.txt
 
-##Notes / Limitations
+## Notes / Limitations
 
 -This tool is mainly for visual learning (Unit 1 vectors).
 
