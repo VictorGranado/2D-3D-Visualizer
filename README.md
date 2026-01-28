@@ -16,20 +16,7 @@ I made this because I sometimes understand the math but struggle to **picture** 
   - `<vx,vy>`  
   - `<vx,vy>@(tx,ty)`  
   - `<vx,vy,vz>@(tx,ty,tz)`
-- Optional curve/surface plotting (used as geometric context - a little buggy still) 
-
-## Screenshots
-Add your screenshots here after you save them into `screenshots/`.
-
-Example:
-- `screenshots/demo_2d.png`
-- `screenshots/demo_3d.png`
-
-## Install
-Make sure you have Python 3.11+.
-
-```bash
-pip install -r requirements.txt
+- Optional curve/surface plotting (used as geometric context - a little buggy still)
 
 ## Notes / Limitations
 
@@ -44,4 +31,18 @@ pip install -r requirements.txt
 -Plotting vectors helped me connect component form like <vx,vy> to the actual direction and length.
 
 -Head-to-tail addition makes vector addition feel much more intuitive than just adding components.
+
+
+## Screenshots
+Add your screenshots here after you save them into `screenshots/`.
+
+Example:
+- `screenshots/demo_2d.png`
+- `screenshots/demo_3d.png`
+
+## Install
+Make sure you have Python 3.11+.
+
+```bash
+pip install -r requirements.txt
 
